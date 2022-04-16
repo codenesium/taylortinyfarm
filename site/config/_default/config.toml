@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/techfeed/examplesite/"
-title = "Techfeed"
+baseURL = "/"
+title = "Taylor Tiny Farm"
 theme = "techfeed-hugo"
 # post pagination
 paginate = "2"

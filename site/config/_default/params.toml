@@ -9,22 +9,22 @@ logo_width = "150px"
 logo_text = "TechFeed"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Gethugothemes"
+author = "TaylorTinyFarm"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # main sections
 mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
-copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
+copyright = "TaylorTinyFarm 2022"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
 # author
 [author_block]
-title= "WELCOME TO MY BLOG"
+title= "Taylor Tiny Farm"
 image= "images/author.jpg"
-content= "My name is Linda Smith. I am a writer, I like to travel and I love to photograph beautiful nature places and happy peoples."
+content= "Vines and Wines and the occasional goat video"
 
 # Preloader
 [preloader]
