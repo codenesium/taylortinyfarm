@@ -7,32 +7,3 @@ name = "home"
 url = ""
 weight = 1
 
-[[main]]
-name = "about"
-url = "about/"
-weight = 2
-
-[[main]]
-name = "vineyard"
-url = "vineyard/"
-weight = 3
-
-[[main]]
-name = "plants"
-url = "plants/"
-weight = 4
-
-[[main]]
-name = "animals"
-url = "plants/"
-weight = 5
-
-[[main]]
-name = "contact"
-url = "contact/"
-weight = 6
-
-[[main]]
-name = "blog"
-url = "blog/"
-weight = 7
