@@ -24,7 +24,7 @@ custom_script= ""
 [author_block]
 title= "Taylor Tiny Farm"
 image= "images/author.jpg"
-content= "Has baby Ricki arrived? <b style='color:red'>No</b>. <br>Check back for status updates."
+content= "Has baby Ricki arrived? <b style='color:red;font-size:2em;'>No</b>. <br>Check back for status updates."
 
 # Preloader
 [preloader]
