@@ -39,18 +39,7 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ############################# social site ########################
-[[social]]
-icon = "fab fa-facebook-f"
-link = "#"
-
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
 
 [[social]]
 icon = "fab fa-instagram"
-link = "#"
-
-[[social]]
-icon = "fab fa-dribbble"
-link = "#"
+link = "https://www.instagram.com/taylortinyfarm"
