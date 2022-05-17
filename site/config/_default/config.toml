@@ -7,7 +7,7 @@ paginate = "2"
 # post excerpt
 summaryLength = "30"
 # google analytics
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "G-71DZX0S9MR" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 
 ############################# Modules ##############################
 [module]
