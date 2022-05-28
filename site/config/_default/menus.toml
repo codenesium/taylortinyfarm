@@ -7,3 +7,17 @@ name = "home"
 url = ""
 weight = 1
 
+[[main]]
+name = "vineyard"
+url = "vineyard/"
+weight = 2
+
+[[main]]
+name = "plants"
+url = "plants/"
+weight = 3
+
+[[main]]
+name = "animals"
+url = "animals/"
+weight = 4
