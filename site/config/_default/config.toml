@@ -9,7 +9,7 @@ summaryLength = "30"
 # google analytics
 googleAnalytics = "G-71DZX0S9MR" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 
-timeout = 60000
+timeout = 300000
 
 ############################# Modules ##############################
 [module]
