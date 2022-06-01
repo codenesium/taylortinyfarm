@@ -10,59 +10,40 @@ We planted our vineyard today!
 
 We have 200 vines. 50 each of Sangiovese, Montepulciano, Barbera and Merlot. All varieties grown in Italy. Putting this together took a ton of work and I'm thankful to our friends who came out for planting. 
 
-![](vineyard/planting/sean_and_eric_standing.JPG)
-*What are we doing? Will it be hard?*
+{{< image src="images/vineyard/planting/sean_and_eric_standing.JPG" caption="What are we doing? Will it be hard?" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/eli_laughing.JPG)
-*Stickers?*
+{{< image src="images/vineyard/planting/eli_laughing.JPG" caption="Stickers?" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/eric_driver.JPG)
-*Yep this is hard...*
+{{< image src="images/vineyard/planting/eric_driver.JPG" caption="Yep this is hard..." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/eric_tree.JPG)
-*This is a nice tree!*
-)
-![](vineyard/planting/kristin_making_grow_tubes.JPG)
-*Grow tubes to save the vines from deer and herbicide.*
+{{< image src="images/vineyard/planting/eric_tree.JPG" caption="This is a nice tree." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/kristin_tying.JPG)
-*Tying rebar.*
+{{< image src="images/vineyard/planting/kristin_making_grow_tubes.JPG" caption="We must protect the vines from deer and herbicide!" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/planting_from_a_distance.JPG)
-*Hey over there!*
+{{< image src="images/vineyard/planting/kristin_tying.JPG" caption="Tying the support stakes to the trellis wire." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/planting.JPG)
-*Planting vines.*
+{{< image src="images/vineyard/planting/planting_from_a_distance.JPG" caption="Planting from a distance." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/sean_watering.JPG)
-*Water makes this work!*
+{{< image src="images/vineyard/planting/planting.JPG" caption="Up close and personnal" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/travis_lawnmower.JPG)
-*I'm not helping at all...*
+{{< image src="images/vineyard/planting/sean_watering.JPG" caption="Watering the vines in so they get a good start." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/view_east.JPG)
-*The view east.*
+{{< image src="images/vineyard/planting/travis_lawnmower.JPG" caption="I'm not helping at all..." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/zac_the_acrobat.JPG)
-*I'm so excited to be here!*
+{{< image src="images/vineyard/planting/zac_the_acrobat.JPG" caption="I'm so excited. For this to be over...'" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/all_done.JPG)
-*Planting is done!*
+{{< image src="images/vineyard/planting/all_done.JPG" caption="Fin" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/done_with_irrigation.JPG)
-*Irrigation added.*
+{{< image src="images/vineyard/planting/done_with_irrigation.JPG" caption="Irrigation added later." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/out_of_focus_bud.JPG)
-*Buds breaking.*
+{{< image src="images/vineyard/planting/out_of_focus_bud.JPG" caption="Bud break." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/little_sprout.JPG)
-*Growing strong!*
+{{< image src="images/vineyard/planting/little_sprout.JPG" caption="Little tike taking off." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/growing_vine.JPG)
-*And a bit more.*
+{{< image src="images/vineyard/planting/growing_vine.JPG" caption="Off to the races." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-![](vineyard/planting/single_vine.JPG)
-*You can do it!*
 
-![](vineyard/planting/june_1st_2022.JPG)
-*We're on our way to wine! 6-1-2022*
+{{< image src="images/vineyard/planting/single_vine.JPG" caption="Must. Propogate. Genes!" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+
+{{< image src="images/vineyard/planting/june_1st_2022.JPG" caption="2 months later...6-1-2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
