@@ -10,6 +10,10 @@ We planted our vineyard today!
 
 We have 200 vines. 50 each of Sangiovese, Montepulciano, Barbera and Merlot. All varieties grown in Italy. Putting this together took a ton of work and I'm thankful to our friends who came out for planting. 
 
+{{< image src="images/vineyard/planting/vines_arrived.jpg" caption="Vines arrived!" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/planting/vines_soaking.jpg" caption="Soaking for 24 hours to get them off to a good start." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
 {{< image src="images/vineyard/planting/sean_and_eric_standing.JPG" caption="What are we doing? Will it be hard?" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 {{< image src="images/vineyard/planting/eli_laughing.JPG" caption="Stickers?" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
