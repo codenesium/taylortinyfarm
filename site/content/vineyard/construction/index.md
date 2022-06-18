@@ -100,9 +100,7 @@ command="fill" option="q3" class="img-fluid" webp="true" >}}
             command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
-
-
-{{<image src="images/vineyard/construction/support_post.jpg" caption="These posts are designed using the VSP(verticle shoot positioning system). This allows you to pull out the catch wire and align the shoots over time," alt="alter-text" height="" width="" position="center" 
+{{<image src="images/vineyard/construction/support_post.jpg" caption="These posts are designed using for the VSP(verticle shoot positioning system). This allows you to pull out the catch wire and align the shoots over time." alt="alter-text" height="" width="" position="center" 
             command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
