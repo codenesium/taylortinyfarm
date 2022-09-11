@@ -8,9 +8,11 @@ draft: false
 
 
 #### 9/11/2022
-Iron spikes inserted in vines showing most chlorosis. I will see how these do and I may install them for every vine. They're made for palm trees and are a bit expensive but I think they will help. 
+Iron spikes inserted in vines showing most chlorosis. I will see how these do and I may install them for every vine. They're made for palm trees and are a bit expensive but I think they will help. I also installed them around all of my new trees that are showing chlorosis symptoms. 
 
 https://www.lutzcorp.com/p-22-iron-chlorosis-spike.aspx
+
+We've had quite a bit of rain in the last month. We went 3 weeks with no irrigation which is great. Rain helps to remove salts and anything else that's been accumulating in the soil. The vines really liked the rainwater. 
 
 {{< image src="images/vineyard/2022/september.jpg" caption="September 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
@@ -60,7 +62,4 @@ Vines poking out of the grow tubes.
 Here is our soil analysis
 
 {{< image src="images/vineyard/notes/soil_test.png" caption="Soil test" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
-
-
-
 
