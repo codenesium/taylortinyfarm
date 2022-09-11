@@ -25,7 +25,7 @@ Sprayed all vines with chelated iron.
 The drought is very bad right now. Everything is dead around here.
 I noticed some deer damage. By the time I could get an eleteic fence up they had stripped almost every bit of green from the vines. They are relentless. I put in a 3 wire electric fence 4 feet high with a second fence 4 feet inside that one with a 60 mile charger. After several hilarious touches of that fence the deer seem discouraged now. I think the vines will all recover.
 
-{{< image src="images/vineyard/2022/august.JPG" caption="August 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/august.jpg" caption="August 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 7/15/2022
@@ -33,18 +33,18 @@ Sprayed all vines with chelated iron. Lots of vines showing symptoms of chlorosi
 
 https://southernag.com/product/chelated-liquid-iron
 
-{{< image src="images/vineyard/2022/july.JPG" caption="July 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/july.jpg" caption="July 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2022/chlorosis1.JPG" caption="Chlorosis 1" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/chlorosis1.jpg" caption="Chlorosis 1" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2022/chlorosis2.JPG" caption="Chlorosis 2" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/chlorosis2.jpg" caption="Chlorosis 2" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2022/chlorosis3.JPG" caption="Chlorosis 3" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/chlorosis3.jpg" caption="Chlorosis 3" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 6/15/2022
 Vines doing well!
 
-{{< image src="images/vineyard/2022/june.JPG" caption="June 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2022/june.jpg" caption="June 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 5/15/2022
