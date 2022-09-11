@@ -1,7 +1,7 @@
 ---
-title: "Vineyard Notes"
+title: "Vineyard Blog"
 image: "images/vineyard/2022/september.jpg"
-description: "Vineyard Notes"
+description: "Vineyard Blog"
 date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
