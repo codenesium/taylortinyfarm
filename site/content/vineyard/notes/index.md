@@ -1,19 +1,22 @@
 ---
 title: "Vineyard Notes"
-image: "images/vineyard/planting/all_done.JPG"
+image: "images/vineyard/2022/september.jpg"
 description: "Vineyard Notes"
-date: 2022-04-12T12:00:00+06:00
+date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
 
 
 #### 9/11/2022
-Iron spikes inserted in vines showing most chlorosis. I will see how these do and I may install them for every vine.
+Iron spikes inserted in vines showing most chlorosis. I will see how these do and I may install them for every vine. They're made for palm trees and are a bit expensive but I think they will help. 
 
 https://www.lutzcorp.com/p-22-iron-chlorosis-spike.aspx
 
+{{< image src="images/vineyard/2022/september.jpg" caption="September 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+
 #### 9/9/2022
-Sprayed all vines with chelated iron. Montepulciano showing the most chlorosis.
+Sprayed all vines with chelated iron. Montepulciano showing the most chlorosis. Vines are recovered from the attack of the deer.
 
 #### 9/1/2022
 Sprayed all vines with chelated iron.
@@ -22,8 +25,8 @@ Sprayed all vines with chelated iron.
 Sprayed all vines with chelated iron. 
 
 #### 8/1/2022
-The drought is very bad right now. Everything is dead around here.
-I noticed some deer damage. By the time I could get an eleteic fence up they had stripped almost every bit of green from the vines. They are relentless. I put in a 3 wire electric fence 4 feet high with a second fence 4 feet inside that one with a 60 mile charger. After several hilarious touches of that fence the deer seem discouraged now. I think the vines will all recover.
+The drought is very bad right now. I'm irrigating about 15 gallons per vine per week which is a lot of water. Everything is dead around here.
+I noticed some deer damage. By the time I could get an eletric fence up they had stripped almost every bit of green from the vines. They are relentless. I put in a 3 wire electric fence 4 feet high with a second fence 4 feet inside that one with a 60 mile charger. After several hilarious touches of that fence the deer seem discouraged now. I think the vines will all recover.
 
 {{< image src="images/vineyard/2022/august.jpg" caption="August 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
@@ -48,6 +51,12 @@ Vines doing well!
 
 
 #### 5/15/2022
+Wines poking out of the grow tubes.
+{{< image src="images/vineyard/2022/may.jpg" caption="May 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+
+
+#### Soil analysis
 Here is our soil analysis
 
 {{< image src="images/vineyard/notes/soil_test.png" caption="Soil test" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
