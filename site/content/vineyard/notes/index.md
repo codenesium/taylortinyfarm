@@ -51,7 +51,7 @@ Vines doing well!
 
 
 #### 5/15/2022
-Wines poking out of the grow tubes.
+Vines poking out of the grow tubes.
 {{< image src="images/vineyard/2022/may.jpg" caption="May 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
