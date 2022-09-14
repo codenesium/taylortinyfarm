@@ -5,7 +5,8 @@ description: "Vineyard Blog"
 date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
-
+#### 9/14/2022 
+Applied chelated iron spray to vines showing most chlorosis. Applied 64 oz or so  of chelated iron through irrigation. 
 
 #### 9/11/2022
 Iron spikes inserted in vines showing most chlorosis. I will see how these do and I may install them for every vine. They're made for palm trees and are a bit expensive but I think they will help. I also installed them around all of my new trees that are showing chlorosis symptoms. 
