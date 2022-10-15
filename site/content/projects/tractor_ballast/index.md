@@ -1,8 +1,8 @@
 ---
 title: "Tractor Ballast"
 image: "images/projects/tractor_ballast/step4.JPG"
-description: "Planting day!"
-date: 2022-04-12T12:00:00+06:00
+description: "Tractor ballast"
+date: 2022-10-01T12:00:00+06:00
 draft: false
 ---
 Running the front end loader on the Kubota without ballast was down right scary as the Kubota is quite tippy without it. I made something to save a few bucks. This uses a drawbar welded to 3 point hitch adaptor. This will work with the Kubota quick hitch and is about 300 pounds of ballast. 
