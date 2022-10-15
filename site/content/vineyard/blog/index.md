@@ -5,6 +5,10 @@ description: "Vineyard Blog"
 date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
+
+#### 10/13/2022 
+Started removing vine shelters for winter. My back hurts. 
+
 #### 10/10/2022 
 Fertilized all vines with about 1/2 shovel of turkey compost. 
 
