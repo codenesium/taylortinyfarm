@@ -6,6 +6,12 @@ date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
 
+#### 11/01/2022 
+Spread rye grass and wildflower seed in the rows. Two passes on the 10 setting. 
+
+#### 10/24/2022 
+We had a storm and some of the vines that weren't attached well were broken over. Probably 5 or so. 
+
 #### 10/13/2022 
 Started removing vine shelters for winter. My back hurts. 
 
