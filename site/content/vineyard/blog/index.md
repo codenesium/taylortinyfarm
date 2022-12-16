@@ -7,12 +7,12 @@ draft: false
 ---
 
 #### 11/12/2022 
-Vines have lost their leaves and are going dormant.
+Vines have losing their leaves and are going dormant. We've had a lot of consistent rain and the rye grass is doing amazing.
 {{< image src="images/vineyard/2022/december.jpg" caption="December 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 11/01/2022 
-Spread rye grass and wildflower seed in the rows. Two passes on the 10 setting. 
+I spread rye grass and wildflower seed in the rows. Two passes on the 10 setting. 
 
 #### 10/24/2022 
 We had a storm and some of the vines that weren't attached well were broken over. Probably 5 or so. 
