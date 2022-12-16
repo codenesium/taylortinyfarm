@@ -2,11 +2,11 @@
 title: "Vineyard Blog"
 image: "images/vineyard/2022/december.jpg"
 description: "Vineyard Blog"
-date: 2022-09-11T12:00:00+06:00
+date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
 
-#### 11/12/2022 
+#### 12/12/2022 
 Vines have losing their leaves and are going dormant. We've had a lot of consistent rain and the rye grass is doing amazing.
 {{< image src="images/vineyard/2022/december.jpg" caption="December 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
