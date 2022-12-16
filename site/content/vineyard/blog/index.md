@@ -1,10 +1,15 @@
 ---
 title: "Vineyard Blog"
-image: "images/vineyard/2022/september.jpg"
+image: "images/vineyard/2022/december.jpg"
 description: "Vineyard Blog"
 date: 2022-09-11T12:00:00+06:00
 draft: false
 ---
+
+#### 11/12/2022 
+Vines have lost their leaves and are going dormant.
+{{< image src="images/vineyard/2022/december.jpg" caption="December 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
 
 #### 11/01/2022 
 Spread rye grass and wildflower seed in the rows. Two passes on the 10 setting. 
