@@ -7,7 +7,7 @@ draft: false
 ---
 
 #### 12/12/2022 
-Vines have losing their leaves and are going dormant. We've had a lot of consistent rain and the rye grass is doing amazing.
+Vines have been losing their leaves and are going dormant. We've had a lot of consistent rain and the rye grass is doing amazing.
 {{< image src="images/vineyard/2022/december.jpg" caption="December 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
