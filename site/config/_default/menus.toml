@@ -26,3 +26,8 @@ weight = 4
 name = "projects"
 url = "projects/"
 weight = 5
+
+[[main]]
+name = "weather"
+url = "weather/"
+weight = 6
