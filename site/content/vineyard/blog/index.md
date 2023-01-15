@@ -6,10 +6,12 @@ date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
 
+#### 12/20/2022 
+Turkey compost spread around all of the vines. Vine shelters removed from all of the vines big enough to stand up. Pruning soon!
+
 #### 12/12/2022 
 Vines have been losing their leaves and are going dormant. We've had a lot of consistent rain and the rye grass is doing amazing.
 {{< image src="images/vineyard/2022/december.jpg" caption="December 2022" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
-
 
 #### 11/01/2022 
 I spread rye grass and wildflower seed in the rows. Two passes on the 10 setting. 
