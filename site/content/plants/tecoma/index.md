@@ -1,7 +1,7 @@
 ---
-title: "Tacoma"
+title: "Tecoma"
 image: "images/plants/6-1-2022/tacoma.JPG"
-description: "Tacoma"
+description: "Tecoma"
 date: 2022-04-12T12:00:00+06:00
 draft: false
 ---
