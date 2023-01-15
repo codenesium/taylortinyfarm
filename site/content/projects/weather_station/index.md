@@ -9,7 +9,7 @@ We needed a weather station here at the farm to run our Rachio smart irrigation 
 
 <a href="https://www.taylortinyfarm.com/weather" style="color:blue">Taylor Tiny Farm Weather</a>
 or
-<a href="https://www.wunderground.com/dashboard/pws/KTXDRIPP288." style="color:blue">Wunderground</a>
+<a href="https://www.wunderground.com/dashboard/pws/KTXDRIPP288" style="color:blue">Wunderground</a>
 
 We settled on a Davis Vantage Pro 2. They're expensive but probably the best around. Did I mention they're expensive?
 
@@ -25,7 +25,7 @@ We settled on a Davis Vantage Pro 2. They're expensive but probably the best aro
 {{< image src="images/projects/weather_station/step4.JPG" caption="Mounted and situated between the garden and vineyard." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
-{{< image src="images/projects/weather_station/step5.JPG" caption="Data being received by the ancient console" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/projects/weather_station/step5.JPG" caption="Data being received by the ancient console." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 
