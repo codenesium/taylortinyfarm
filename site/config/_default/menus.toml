@@ -22,31 +22,20 @@ name = "animals"
 url = "animals/"
 weight = 4
 
-
-
-# dropdown menu
 [[main]]
-name = "More"
-weight = 6
-hasChildren = true
-
-[[main]]
-parent = "More"
 name = "Projects"
 url = "projects/"
-weight = 1
+weight = 5
+
+[[main]]
+name = "Weather"
+url = "weather/"
+weight = 6
 
 
 # [[main]]
-# parent = "More"
 # name = "Recipes"
 # url = "recipes/"
-# weight = 2
-
-[[main]]
-parent = "More"
-name = "Weather"
-url = "weather/"
-weight = 3
+# weight = 7
 
 
