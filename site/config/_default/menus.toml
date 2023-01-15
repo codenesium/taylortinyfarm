@@ -37,11 +37,11 @@ url = "projects/"
 weight = 1
 
 
-[[main]]
-parent = "More"
-name = "Recipes"
-url = "recipes/"
-weight = 2
+# [[main]]
+# parent = "More"
+# name = "Recipes"
+# url = "recipes/"
+# weight = 2
 
 [[main]]
 parent = "More"
