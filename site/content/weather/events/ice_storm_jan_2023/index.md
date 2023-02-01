@@ -1,6 +1,6 @@
 ---
 title: "Ice Storm January 2023"
-image: "images/weather/ice_storm_jan_2023/DSC05583.JPG"
+image: "images/weather/ice_storm_jan_2023/DSC05568.JPG"
 description: "Weather"
 date: 2023-02-01T12:00:00+06:00
 ---
