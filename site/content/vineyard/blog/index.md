@@ -6,6 +6,9 @@ date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
 
+#### 01/28/2023
+Rows sprayed with glyphosphate. Spring is near but freezing rain is on the way. 
+
 #### 12/20/2022 
 Turkey compost spread around all of the vines. Vine shelters removed from all of the vines big enough to stand up. Pruning soon!
 
