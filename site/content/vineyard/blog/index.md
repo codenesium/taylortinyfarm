@@ -1,10 +1,24 @@
 ---
 title: "Vineyard Blog"
-image: "images/vineyard/2022/december.jpg"
+image: "images/vineyard/2023/february.jpg"
 description: "Vineyard Blog"
 date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
+
+#### 02/06/2023
+Vines pruned today. There were a lot that appeared to have no green wood. I'm not sure if they're just still dormant or actually dead. 3 vines had crown gall. 1 vine was entirely rootstock and not the graft. I knew it was something like that as that one vine had very different leaves. I repaired the trellis by digging new holes and using concrete. I don't think there will be any more issues there. If they can support all that ice the grapes won't be an issue. Buds are swelling across the vineyard. Spring appears to be coming early. 
+
+#### 02/02/2023
+Ice Storm! The trellis and vines are all encased in an inch of ice. It's insane. Several of the trellis endposts have been pulled out of the ground.
+{{< image src="images/vineyard/2023/february.jpg" caption="All of the wire and vines were encased in thick ice." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/february_2023_broken_trellis.jpg" caption="I picked up a section of wire that was 25 feet or so. I'd estimate it weighed at least 25 pounds. These rows are 150 feet or so long and there are 8 wires per trellis. So that comes out to around 1200 pounds. 4 rows had the trellis bent over as they are not that strong in the horizontal direction. It was easy to fix and I don't think any vines were damaged." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/february_2023_weather_station.jpg" caption="Needless to say we stopped reporting wind and rainfall at some point." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/february_2023_trellis_wire.jpg" caption="This is a 17 gauge trellis wire. The ice was over 1 inch thick." alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
 
 #### 01/28/2023
 Rows sprayed with glyphosphate. Spring is near but freezing rain is on the way. 
