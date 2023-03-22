@@ -1,10 +1,18 @@
 ---
 title: "Vineyard Blog"
-image: "images/vineyard/2023/february.jpg"
+image: "images/vineyard/2023/march_2023_vineyard.jpg"
 description: "Vineyard Blog"
 date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
+
+#### 03/13/2023
+We have bud burst and we have lots of growth. Applied 1 teaspoon of Ferrilene to all of the vines to get a jump on chlorosis issues.
+
+{{< image src="images/vineyard/2023/march_2023_shoot.jpg" caption="New growth!" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+
+{{< image src="images/vineyard/2023/march_2023_vineyard.jpg" caption="Lush grass all around" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 02/06/2023
 Vines pruned today. There were a lot that appeared to have no green wood. I'm not sure if they're just still dormant or actually dead. 3 vines had crown gall. 1 vine was entirely rootstock and not the graft. I knew it was something like that as that one vine had very different leaves. I repaired the trellis by digging new holes and using concrete. I don't think there will be any more issues there. If they can support all that ice the grapes won't be an issue. Buds are swelling across the vineyard. Spring appears to be coming early. 
