@@ -1,10 +1,25 @@
 ---
 title: "Vineyard Blog"
-image: "images/vineyard/2023/march_2023_vineyard.jpg"
+image: "images/vineyard/2023/april_2023_1.jpg"
 description: "Vineyard Blog"
 date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
+
+
+#### 05/04/2023
+The weather has been amazing. We're still in a drought but we have been getting a regular 1/2 inch of rain. The grass is green. I'm still irrigating but getting to skip some runs.
+
+#### 05/03/2023
+Realized I need to raise or lower all of my catch wires or the vines will attach to them which is not what you want. Raised them all up to the top for now. Also realized I need to drive all of the trellis wire support posts about 8-12 inches deeper so the first set up catch wires is 10 inches or so above the cordon wire. Currently it's 14-18 above which is wrong. I just need to drive them deeper. I'm having trouble with my irrigation drippers continuing to drip. They are pressure compensating but I think they are wearing out a bit. I bought some more expensive replacement drippers that require 15psi or to to drip. They're expensive at 40 cents a piece. I think I can just replace the ones that drip incorreclty piecemeal but if I could do it over I'd install these fancy drippers from the beginning. 
+
+
+#### 04/29/2023
+Wow it's been busy. Training vines requires a lot more attention than I expected. I'm in the vineyard almost every day training vines and knocking off laterals. I'm not sure how you would keep up on acres of vines unless you did it 60 hours a week. We had around 15 vines that didn't come back so I ordered 1103P rootstock vines and replaced all of those. I realized the rootstock on all of the Montepulciano vines is not what I wanted. I wanted 1103P everywhere because it handles limestone and drought well. What I bought was 10/5BB and 10/101-14. Expensive mistake and the worst to make. These are not good for my area. They're sensitive to chlorosis and drought and that makes sense because last year the worst chlorosis problems I had were in the Montepulciano. I will likely have to replant the Montepulicano. I think I can replace them over time planting the rootstock and doing grafts. It will be a good learning experience. 
+
+{{< image src="images/vineyard/2023/april_2023_1.jpg" caption="Horizontal growth is no accident" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/april_2023_2.jpg" caption="The grass is green" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 03/13/2023
 We have bud burst and we have lots of growth. Applied 1 teaspoon of Ferrilene to all of the vines to get a jump on chlorosis issues.
