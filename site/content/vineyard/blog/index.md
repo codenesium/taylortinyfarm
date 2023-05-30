@@ -6,6 +6,20 @@ date: 2022-12-12T12:00:00+06:00
 draft: false
 ---
 
+#### 05/29/2023
+Growth has been good but there is a lot of chlorosis and what I think is black rot. I have a fertigation setup in place now so I can put ferrilene or other things in a bucket and it will be sucked up into the irrigation stream. Today I applied 2 pounds of ferrilene and it was applied using drip but also I sprayed a band under all of the rows using a water hose and a sprayer. We will see in a few weeks if it had any effect. 
+
+{{< image src="images/vineyard/2023/may/PXL_20230510_201732689.jpg" caption="Irrigation setup" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/may/PXL_20230529_235428950.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/may/PXL_20230529_235437224.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/may/PXL_20230529_235445443.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/may/PXL_20230529_235454189.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+
+{{< image src="images/vineyard/2023/may/PXL_20230529_235501188.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 05/04/2023
 The weather has been amazing. We're still in a drought but we have been getting a regular 1/2 inch of rain. The grass is green. I'm still irrigating but getting to skip some runs.
