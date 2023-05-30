@@ -21,6 +21,11 @@ Growth has been good but there is a lot of chlorosis and what I think is black r
 
 {{< image src="images/vineyard/2023/may/PXL_20230529_235501188.jpg" caption="Rov view" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
+#### 05/10/2023
+Applied 1 cup of ferrilene diluted into 5 gallons of water using my new venturi fertilizer injector(https://www.dripdepot.com/item/drip-depot-economy-venturi-injector-inlet-outlet-size-half-inch-mpt?gad=1&gclid=CjwKCAjwge2iBhBBEiwAfXDBR4aJus7yuivPgjM5TuPE7fZXiqyzRTX7LeGTF-lzbnqKwH_UczD8TxoCcIgQAvD_BwE).
+
+It works better than I expected. I estimate it took an hour to apply all of it. 
+
 #### 05/04/2023
 The weather has been amazing. We're still in a drought but we have been getting a regular 1/2 inch of rain. The grass is green. I'm still irrigating but getting to skip some runs.
 
