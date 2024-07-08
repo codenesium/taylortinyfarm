@@ -2,7 +2,7 @@
 title: "Vineyard Blog"
 image: "images/vineyard/2024/PXL_20240625_sangiovese.jpg"
 description: "Vineyard Blog"
-date: 2022-12-12T12:00:00+06:00
+date: 2024-07-08T12:00:00+06:00
 draft: false
 ---
 
@@ -55,7 +55,7 @@ Sprayed 10oz of captan. The revised spray rig made this so much easier. I had en
 #### 5/30/24
 Seeing some concerning leaf damage that looks like Pierce's disease. Laid out sticky traps and sprayed 10 oz of macho in the root zone with the spray rig. Realized near the end for some reason the boom hose was leaking the whole time so I couldn't really measure what I laid down. I set up the fertilizer injection and irrigated an hour with another 10 oz just to make sure I had good coverage. We shall see what the traps catch. Hopefully no sharp shooters. 
 
-{{< image src="images/vineyard/2024/PXL_20240530_PXL_20240530_red_leaf_2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240530_red_leaf_2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 {{< image src="images/vineyard/2024/PXL_20240530_yellow_leaf.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
@@ -156,7 +156,7 @@ Installed remaining supports post bases on North and West deer fence.
 Grafted 20 or so vines that didn't survive planting that I replanted 1103p rootstock last year. Also went around and cut buds off of trunks with a razor blade so they won't sucker all year. In hindsight I did this too early and didn't have great results. There wasn't great sap flow in the vines and you need that to graft. I feel like how I grafted was ok it was just too early.
 
 #### 3/28/24
-I wrapped up .ost of the deer fence today. We're using 8 feet tall Tanax plastic fencing.
+I wrapped up most of the deer fence today. We're using 8 feet tall Tanax plastic fencing.
 
 
 {{< image src="images/vineyard/2024/PXL_20240328_deer_fence_1.jpg" caption="Deer fence corner" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
