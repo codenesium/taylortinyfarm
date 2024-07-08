@@ -1,6 +1,6 @@
 ---
 title: "Vineyard Blog"
-image: "images/vineyard/2023/april_2023_1.jpg"
+image: "images/vineyard/2024/PXL_20240625_sangiovese.jpg"
 description: "Vineyard Blog"
 date: 2022-12-12T12:00:00+06:00
 draft: false
@@ -9,12 +9,12 @@ draft: false
 #### 7/8/24
 Sangiovese shows 22.1 brix. Seeds are mostly brown at this point. PH reading is 3.2. Juice tastes sweet. 
 
-{{< image src="images/vineyard/2024/PXL_20240708_ripe_seeds.jpg" caption="Almost ripe seeds" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240708_ripe_seeds.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 7/7/24
 I built a punchdown tool out of stainless steel from stuff I cobbled together from Amazon.
 
-{{< image src="images/vineyard/2024/PXL_20240707_punch_down_tool.jpg" caption="Punchdown tool" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240707_punch_down_tool.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 7/4/24
@@ -34,11 +34,11 @@ Crushed some Sangiovese grapes and the refractometer says they're 17.8 brix. We 
 
 #### 6/21/24 
 I am not doing a good job keeping the birds out...
-{{< image src="images/vineyard/2024/PXL_20240621_bird_eggs.jpg" caption="Bird eggs" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240621_bird_eggs.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 6/18/24 
-Veraison going strong on Sangiovese. Around 40%. A berry or two on montepulcianno. Barely started on barbera. None in the merlot. 
+Veraison going strong on Sangiovese. Around 40%. A berry or two on Montepulcianno. Barely started on barbera. None in the merlot. 
 
 {{< image src="images/vineyard/2024/PXL_20240620_sangiovese.jpg" caption="Veraison in Sangiovese" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
@@ -47,23 +47,23 @@ Veraison going strong on Sangiovese. Around 40%. A berry or two on montepulciann
 {{< image src="images/vineyard/2024/PXL_20240618_flowers.jpg" caption="Flowers" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 #### 6/15/24
-10oz or captan. 2oz of Tebustar. Battery was destroyed on spray rig so just sprayed with no fan. 
+Sprayed 10oz or captan. 2oz of Tebustar. Battery was dead on spray rig so just sprayed with no fan. 
 
 #### 6/1/24
 Sprayed 10oz of captan. The revised spray rig made this so much easier. I had enough spray left over to spray 3-4 rows again. The sprayer arm needs something to keep it more inline with the fan but even so it was spraying well. I sprayed so soon since the last spray because last time I did a piss poor job and we've had almost 4 inches of rain in the last 2 days. 
 
 #### 5/30/24
-Seeing some concerning leaf damage that looks like pierce's disease. Laid out sticky traps and sprayed 10 oz of macho in the root zone with the spray rig. Realized near the end for some reason the boom hose was leaking the whole time so I couldn't really measure what I laid down. I set up the fertilizer injection and irrigated an hour with another 10 oz just to make sure I had good coverage. We shall see what the traps catch. Hopefully no sharp shooters. 
+Seeing some concerning leaf damage that looks like Pierce's disease. Laid out sticky traps and sprayed 10 oz of macho in the root zone with the spray rig. Realized near the end for some reason the boom hose was leaking the whole time so I couldn't really measure what I laid down. I set up the fertilizer injection and irrigated an hour with another 10 oz just to make sure I had good coverage. We shall see what the traps catch. Hopefully no sharp shooters. 
 
-{{< image src="images/vineyard/2024/PXL_20240528_PXL_20240530_red_leaf_2.jpg" caption="Red leaf" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240530_PXL_20240530_red_leaf_2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2024/PXL_20240530_yellow_leaf.jpg" caption="Yellow leaf" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240530_yellow_leaf.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 5/28/24
 {{< image src="images/vineyard/2024/PXL_20240528_storm.jpg" caption="Intense storm today" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2024/PXL_20240528_vines.jpg.jpg" caption="Vines" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240528_vines.jpg" caption="Vines" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 5/24/24
@@ -102,7 +102,7 @@ Sprayed 1# of manzate in 30 gallons of water Made it all the way to the last row
 #### 4/27/24
 Sprayed 11oz of ferrilene mixed in 25 gallons of water. Made a run through the vineyard with it making a wide band and had a lot left over. Set the sprayer to wide open and went up and down the rows spraying a lazy narrow band until it was through. It's misting. Hope that Captan works.
 
-Seeing some rust like stuff on leaves. Not sure that this is.
+Seeing some rust like stuff on leaves. Not sure what this is.
 
 {{< image src="images/vineyard/2024/PXL_20240428_rust.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
@@ -111,11 +111,11 @@ Seeing some rust like stuff on leaves. Not sure that this is.
 #### 4/26/24
 Fruit set in various spots In the vineyard. Can't really say any variety is farther along that others. Sangiovese seems to be ahead. Montepulcianno is late. Montepulcianno has a ton of flowers considering the leaf growth isn't that great. Seems like that is out of balance to me. In hindsight this was out of balance. The vines that had so much fruit didn't ripen consistently. 
 
-{{< image src="images/vineyard/2024/PXL_20240425_flowering.jpg.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240425_flowering.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2024/PXL_20240425_flowering_2.jpg.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240425_flowering_2.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
-{{< image src="images/vineyard/2024/PXL_20240425_flowering_3.jpg.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
+{{< image src="images/vineyard/2024/PXL_20240425_flowering_3.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q3" class="img-fluid" webp="true" >}}
 
 
 #### 4/24/24
